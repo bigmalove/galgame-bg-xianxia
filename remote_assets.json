@@ -1,104 +1,188 @@
 {
   "packageName": "内置图包·仙侠",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "style": "xianxia",
-  "exportDate": "2026-07-04T10:20:33.873Z",
+  "exportDate": "2026-07-04T11:14:16.595Z",
   "backgrounds": [
     {
       "sceneName": "竹林",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/backgrounds/%E7%AB%B9%E6%9E%97.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/thumbs/%E7%AB%B9%E6%9E%97.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E7%AB%B9%E6%9E%97.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E7%AB%B9%E6%9E%97.webp",
       "file": "backgrounds/竹林.webp"
     },
     {
       "sceneName": "山巅",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/backgrounds/%E5%B1%B1%E5%B7%85.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/thumbs/%E5%B1%B1%E5%B7%85.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E5%B1%B1%E5%B7%85.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E5%B1%B1%E5%B7%85.webp",
       "file": "backgrounds/山巅.webp"
     },
     {
       "sceneName": "仙宫",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/backgrounds/%E4%BB%99%E5%AE%AB.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/thumbs/%E4%BB%99%E5%AE%AB.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E4%BB%99%E5%AE%AB.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E4%BB%99%E5%AE%AB.webp",
       "file": "backgrounds/仙宫.webp"
     },
     {
       "sceneName": "剑冢",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/backgrounds/%E5%89%91%E5%86%A2.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/thumbs/%E5%89%91%E5%86%A2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E5%89%91%E5%86%A2.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E5%89%91%E5%86%A2.webp",
       "file": "backgrounds/剑冢.webp"
     },
     {
       "sceneName": "云海",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/backgrounds/%E4%BA%91%E6%B5%B7.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/thumbs/%E4%BA%91%E6%B5%B7.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E4%BA%91%E6%B5%B7.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E4%BA%91%E6%B5%B7.webp",
       "file": "backgrounds/云海.webp"
     },
     {
       "sceneName": "瀑布",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/backgrounds/%E7%80%91%E5%B8%83.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/thumbs/%E7%80%91%E5%B8%83.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E7%80%91%E5%B8%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E7%80%91%E5%B8%83.webp",
       "file": "backgrounds/瀑布.webp"
     },
     {
       "sceneName": "洞府",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/backgrounds/%E6%B4%9E%E5%BA%9C.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/thumbs/%E6%B4%9E%E5%BA%9C.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E6%B4%9E%E5%BA%9C.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E6%B4%9E%E5%BA%9C.webp",
       "file": "backgrounds/洞府.webp"
     },
     {
       "sceneName": "丹房",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/backgrounds/%E4%B8%B9%E6%88%BF.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/thumbs/%E4%B8%B9%E6%88%BF.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E4%B8%B9%E6%88%BF.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E4%B8%B9%E6%88%BF.webp",
       "file": "backgrounds/丹房.webp"
     },
     {
       "sceneName": "灵田",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/backgrounds/%E7%81%B5%E7%94%B0.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/thumbs/%E7%81%B5%E7%94%B0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E7%81%B5%E7%94%B0.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E7%81%B5%E7%94%B0.webp",
       "file": "backgrounds/灵田.webp"
     },
     {
       "sceneName": "古战场",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/backgrounds/%E5%8F%A4%E6%88%98%E5%9C%BA.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/thumbs/%E5%8F%A4%E6%88%98%E5%9C%BA.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E5%8F%A4%E6%88%98%E5%9C%BA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E5%8F%A4%E6%88%98%E5%9C%BA.webp",
       "file": "backgrounds/古战场.webp"
     },
     {
       "sceneName": "幽谷",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/backgrounds/%E5%B9%BD%E8%B0%B7.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/thumbs/%E5%B9%BD%E8%B0%B7.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E5%B9%BD%E8%B0%B7.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E5%B9%BD%E8%B0%B7.webp",
       "file": "backgrounds/幽谷.webp"
     },
     {
       "sceneName": "天池",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/backgrounds/%E5%A4%A9%E6%B1%A0.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/thumbs/%E5%A4%A9%E6%B1%A0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E5%A4%A9%E6%B1%A0.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E5%A4%A9%E6%B1%A0.webp",
       "file": "backgrounds/天池.webp"
     },
     {
       "sceneName": "藏经阁",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/backgrounds/%E8%97%8F%E7%BB%8F%E9%98%81.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/thumbs/%E8%97%8F%E7%BB%8F%E9%98%81.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E8%97%8F%E7%BB%8F%E9%98%81.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E8%97%8F%E7%BB%8F%E9%98%81.webp",
       "file": "backgrounds/藏经阁.webp"
     },
     {
       "sceneName": "演武场",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/backgrounds/%E6%BC%94%E6%AD%A6%E5%9C%BA.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/thumbs/%E6%BC%94%E6%AD%A6%E5%9C%BA.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E6%BC%94%E6%AD%A6%E5%9C%BA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E6%BC%94%E6%AD%A6%E5%9C%BA.webp",
       "file": "backgrounds/演武场.webp"
     },
     {
       "sceneName": "坊市",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/backgrounds/%E5%9D%8A%E5%B8%82.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/thumbs/%E5%9D%8A%E5%B8%82.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E5%9D%8A%E5%B8%82.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E5%9D%8A%E5%B8%82.webp",
       "file": "backgrounds/坊市.webp"
     },
     {
       "sceneName": "雪山",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/backgrounds/%E9%9B%AA%E5%B1%B1.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/thumbs/%E9%9B%AA%E5%B1%B1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E9%9B%AA%E5%B1%B1.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E9%9B%AA%E5%B1%B1.webp",
       "file": "backgrounds/雪山.webp"
+    },
+    {
+      "sceneName": "桃林",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E6%A1%83%E6%9E%97.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E6%A1%83%E6%9E%97.webp",
+      "file": "backgrounds/桃林.webp"
+    },
+    {
+      "sceneName": "灵泉",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E7%81%B5%E6%B3%89.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E7%81%B5%E6%B3%89.webp",
+      "file": "backgrounds/灵泉.webp"
+    },
+    {
+      "sceneName": "祭坛",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E7%A5%AD%E5%9D%9B.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E7%A5%AD%E5%9D%9B.webp",
+      "file": "backgrounds/祭坛.webp"
+    },
+    {
+      "sceneName": "仙岛",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E4%BB%99%E5%B2%9B.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E4%BB%99%E5%B2%9B.webp",
+      "file": "backgrounds/仙岛.webp"
+    },
+    {
+      "sceneName": "秘境",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E7%A7%98%E5%A2%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E7%A7%98%E5%A2%83.webp",
+      "file": "backgrounds/秘境.webp"
+    },
+    {
+      "sceneName": "传送阵",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E4%BC%A0%E9%80%81%E9%98%B5.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E4%BC%A0%E9%80%81%E9%98%B5.webp",
+      "file": "backgrounds/传送阵.webp"
+    },
+    {
+      "sceneName": "山门",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E5%B1%B1%E9%97%A8.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E5%B1%B1%E9%97%A8.webp",
+      "file": "backgrounds/山门.webp"
+    },
+    {
+      "sceneName": "崖底",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E5%B4%96%E5%BA%95.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E5%B4%96%E5%BA%95.webp",
+      "file": "backgrounds/崖底.webp"
+    },
+    {
+      "sceneName": "冰窟",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E5%86%B0%E7%AA%9F.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E5%86%B0%E7%AA%9F.webp",
+      "file": "backgrounds/冰窟.webp"
+    },
+    {
+      "sceneName": "魔渊",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E9%AD%94%E6%B8%8A.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E9%AD%94%E6%B8%8A.webp",
+      "file": "backgrounds/魔渊.webp"
+    },
+    {
+      "sceneName": "锁妖塔",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E9%94%81%E5%A6%96%E5%A1%94.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E9%94%81%E5%A6%96%E5%A1%94.webp",
+      "file": "backgrounds/锁妖塔.webp"
+    },
+    {
+      "sceneName": "观星台",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E8%A7%82%E6%98%9F%E5%8F%B0.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E8%A7%82%E6%98%9F%E5%8F%B0.webp",
+      "file": "backgrounds/观星台.webp"
+    },
+    {
+      "sceneName": "后山",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E5%90%8E%E5%B1%B1.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E5%90%8E%E5%B1%B1.webp",
+      "file": "backgrounds/后山.webp"
+    },
+    {
+      "sceneName": "静室",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E9%9D%99%E5%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E9%9D%99%E5%AE%A4.webp",
+      "file": "backgrounds/静室.webp"
     }
   ]
 }
