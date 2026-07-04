@@ -11,7 +11,7 @@ galgame 界面插件内置背景图包（16 个场景，2K webp）。
 资源管理器 → 导入 → 内置背景图包，或手动「导入远程链接JSON」填入：
 
 ```
-https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.0/remote_assets.json
+https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.0.1/remote_assets.json
 ```
 
 ## 许可证
