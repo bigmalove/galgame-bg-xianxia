@@ -1,6 +1,6 @@
 {
   "packageName": "内置图包·仙侠",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "style": "xianxia",
   "exportDate": "2026-07-04T11:14:16.595Z",
   "backgrounds": [
@@ -183,6 +183,99 @@
       "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/backgrounds/%E9%9D%99%E5%AE%A4.webp",
       "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.1.0/thumbs/%E9%9D%99%E5%AE%A4.webp",
       "file": "backgrounds/静室.webp"
+    }
+  ],
+  "sprites": [
+    {
+      "characterId": "仙门师姐",
+      "expression": "嘲讽",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprites/%E4%BB%99%E9%97%A8%E5%B8%88%E5%A7%90_%E5%98%B2%E8%AE%BD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprite-thumbs/%E4%BB%99%E9%97%A8%E5%B8%88%E5%A7%90_%E5%98%B2%E8%AE%BD.webp",
+      "template": true
+    },
+    {
+      "characterId": "仙门师姐",
+      "expression": "大笑",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprites/%E4%BB%99%E9%97%A8%E5%B8%88%E5%A7%90_%E5%A4%A7%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprite-thumbs/%E4%BB%99%E9%97%A8%E5%B8%88%E5%A7%90_%E5%A4%A7%E7%AC%91.webp",
+      "template": true
+    },
+    {
+      "characterId": "仙门师姐",
+      "expression": "害羞",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprites/%E4%BB%99%E9%97%A8%E5%B8%88%E5%A7%90_%E5%AE%B3%E7%BE%9E.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprite-thumbs/%E4%BB%99%E9%97%A8%E5%B8%88%E5%A7%90_%E5%AE%B3%E7%BE%9E.webp",
+      "template": true
+    },
+    {
+      "characterId": "仙门师姐",
+      "expression": "微笑",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprites/%E4%BB%99%E9%97%A8%E5%B8%88%E5%A7%90_%E5%BE%AE%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprite-thumbs/%E4%BB%99%E9%97%A8%E5%B8%88%E5%A7%90_%E5%BE%AE%E7%AC%91.webp",
+      "template": true
+    },
+    {
+      "characterId": "仙门师姐",
+      "expression": "思考",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprites/%E4%BB%99%E9%97%A8%E5%B8%88%E5%A7%90_%E6%80%9D%E8%80%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprite-thumbs/%E4%BB%99%E9%97%A8%E5%B8%88%E5%A7%90_%E6%80%9D%E8%80%83.webp",
+      "template": true
+    },
+    {
+      "characterId": "仙门师姐",
+      "expression": "惊讶",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprites/%E4%BB%99%E9%97%A8%E5%B8%88%E5%A7%90_%E6%83%8A%E8%AE%B6.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprite-thumbs/%E4%BB%99%E9%97%A8%E5%B8%88%E5%A7%90_%E6%83%8A%E8%AE%B6.webp",
+      "template": true
+    },
+    {
+      "characterId": "仙门师姐",
+      "expression": "搞怪",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprites/%E4%BB%99%E9%97%A8%E5%B8%88%E5%A7%90_%E6%90%9E%E6%80%AA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprite-thumbs/%E4%BB%99%E9%97%A8%E5%B8%88%E5%A7%90_%E6%90%9E%E6%80%AA.webp",
+      "template": true
+    },
+    {
+      "characterId": "仙门师姐",
+      "expression": "生气",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprites/%E4%BB%99%E9%97%A8%E5%B8%88%E5%A7%90_%E7%94%9F%E6%B0%94.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprite-thumbs/%E4%BB%99%E9%97%A8%E5%B8%88%E5%A7%90_%E7%94%9F%E6%B0%94.webp",
+      "template": true
+    },
+    {
+      "characterId": "仙门师姐",
+      "expression": "难过",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprites/%E4%BB%99%E9%97%A8%E5%B8%88%E5%A7%90_%E9%9A%BE%E8%BF%87.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprite-thumbs/%E4%BB%99%E9%97%A8%E5%B8%88%E5%A7%90_%E9%9A%BE%E8%BF%87.webp",
+      "template": true
+    },
+    {
+      "characterId": "仙门师姐",
+      "expression": "默认",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprites/%E4%BB%99%E9%97%A8%E5%B8%88%E5%A7%90_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprite-thumbs/%E4%BB%99%E9%97%A8%E5%B8%88%E5%A7%90_%E9%BB%98%E8%AE%A4.webp",
+      "template": true
+    },
+    {
+      "characterId": "路人",
+      "expression": "默认",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprites/%E8%B7%AF%E4%BA%BA_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprite-thumbs/%E8%B7%AF%E4%BA%BA_%E9%BB%98%E8%AE%A4.webp",
+      "template": false
+    },
+    {
+      "characterId": "路人女",
+      "expression": "默认",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprites/%E8%B7%AF%E4%BA%BA%E5%A5%B3_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprite-thumbs/%E8%B7%AF%E4%BA%BA%E5%A5%B3_%E9%BB%98%E8%AE%A4.webp",
+      "template": false
+    },
+    {
+      "characterId": "路人男",
+      "expression": "默认",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprites/%E8%B7%AF%E4%BA%BA%E7%94%B7_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-xianxia@v1.2.0/sprite-thumbs/%E8%B7%AF%E4%BA%BA%E7%94%B7_%E9%BB%98%E8%AE%A4.webp",
+      "template": false
     }
   ]
 }
